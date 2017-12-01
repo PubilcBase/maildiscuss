@@ -1,3 +1,3 @@
 <?php
-echo("Hey there m8.");
+echo "You've requested: ".$_GET["route"];
 ?>
