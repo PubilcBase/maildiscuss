@@ -42,6 +42,4 @@ class Users {
         }
     }
 }
-$class = new Users();
-echo $class->add('me', 'me', 'me');
 ?>
